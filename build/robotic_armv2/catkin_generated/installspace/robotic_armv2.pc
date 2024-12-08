@@ -1,0 +1,8 @@
+prefix=/home/devika/try/moveit_ws/install
+
+Name: robotic_armv2
+Description: Description of robotic_armv2
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs

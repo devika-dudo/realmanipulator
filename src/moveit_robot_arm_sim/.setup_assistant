@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: robotic_armv2
+    relative_path: urdf/robotic_armv2.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/robotic_armv2.srdf
+  CONFIG:
+    author_name: devika
+    author_email: b23ec065@mace.ac.in
+    generated_timestamp: 1731480492

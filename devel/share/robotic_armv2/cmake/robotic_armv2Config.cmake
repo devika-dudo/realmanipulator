@@ -1,0 +1,1 @@
+/home/devika/try/moveit_ws/devel/.private/robotic_armv2/share/robotic_armv2/cmake/robotic_armv2Config.cmake

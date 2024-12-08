@@ -1,0 +1,5 @@
+robotic_armv2
+/home/devika/try/moveit_ws/devel/.private/robotic_armv2/cmake.lock /home/devika/try/moveit_ws/devel/./cmake.lock
+/home/devika/try/moveit_ws/devel/.private/robotic_armv2/share/robotic_armv2/cmake/robotic_armv2Config-version.cmake /home/devika/try/moveit_ws/devel/share/robotic_armv2/cmake/robotic_armv2Config-version.cmake
+/home/devika/try/moveit_ws/devel/.private/robotic_armv2/share/robotic_armv2/cmake/robotic_armv2Config.cmake /home/devika/try/moveit_ws/devel/share/robotic_armv2/cmake/robotic_armv2Config.cmake
+/home/devika/try/moveit_ws/devel/.private/robotic_armv2/lib/pkgconfig/robotic_armv2.pc /home/devika/try/moveit_ws/devel/lib/pkgconfig/robotic_armv2.pc

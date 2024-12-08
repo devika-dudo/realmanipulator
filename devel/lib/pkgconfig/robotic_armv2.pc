@@ -1,0 +1,1 @@
+/home/devika/try/moveit_ws/devel/.private/robotic_armv2/lib/pkgconfig/robotic_armv2.pc
